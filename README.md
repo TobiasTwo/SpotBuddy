@@ -154,6 +154,6 @@ TODO
 
 ---
 
-Hugo Capitano 
-Gaëtan Dury 
-Tobias Dubrunquez Lorigenne
+* Hugo Capitano 
+* Gaëtan Dury 
+* Tobias Dubrunquez Lorigenne
